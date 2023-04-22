@@ -1,7 +1,7 @@
 {
     "name": "my-awesome-react-port",
     "version": "1.0.0",
-    "author": "Your Name <email@example.com>",
+    "author": "Quyen Huynh <quinnhuynh1126@gmail.com>",
     "dependencies": {
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
